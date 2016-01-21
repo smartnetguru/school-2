@@ -1,0 +1,9 @@
+#Enable indexing and show nice indexing environment
+Options +Indexes
+IndexOptions FancyIndexing
+
+# Deny access of file matched crireria
+<FilesMatch "\.(env|gitignore)$">
+    Order allow,deny
+    Deny from all
+</FilesMatch>
