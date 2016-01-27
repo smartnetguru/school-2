@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e14b9a18-f5f4-4c0c-836e-3ee99558fbfb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/app/Http/Controllers/PageController.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/app/Http/Controllers/Auth/AuthController.php" afterPath="$PROJECT_DIR$/root/app/Http/Controllers/Auth/AuthController.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/app/Http/routes.php" afterPath="$PROJECT_DIR$/root/app/Http/routes.php" />
+    <list default="true" id="e14b9a18-f5f4-4c0c-836e-3ee99558fbfb" name="Default" comment="commit">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/data1/images/1.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/data1/images/2.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/data1/images/3.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/data1/images/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/views/pages/footer.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/engine1/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/views/pages/navbar.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/engine1/script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/views/pages/scrollbar.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/views/pages/show.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/views/pages/sidebar.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/engine1/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/engine1/style.mod.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/engine1/wowslider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/engine1/wowslider.mod.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/resources/views/pages/index.blade.php" afterPath="$PROJECT_DIR$/root/resources/views/pages/index.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/resources/views/pages/master.blade.php" afterPath="$PROJECT_DIR$/root/resources/views/pages/master.blade.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="srijon.iws" />
@@ -30,26 +44,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0" vertical-offset="153" max-vertical-offset="1003">
-              <caret line="14" column="74" selection-start-line="14" selection-start-column="74" selection-end-line="14" selection-end-column="74" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Kernel.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/root/app/Http/Kernel.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.346154" vertical-offset="225" max-vertical-offset="986">
-              <caret line="26" column="55" selection-start-line="26" selection-start-column="55" selection-end-line="26" selection-end-column="55" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="AuthController.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/root/app/Http/Controllers/Auth/AuthController.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -60,22 +54,35 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="master.blade.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="master.blade.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/root/resources/views/pages/master.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.41580757" vertical-offset="166" max-vertical-offset="799">
-              <caret line="24" column="42" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
+            <state vertical-scroll-proportion="-7.1923075" vertical-offset="0" max-vertical-offset="663">
+              <caret line="11" column="78" selection-start-line="11" selection-start-column="78" selection-end-line="11" selection-end-column="78" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.blade.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="sidebar.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/root/resources/views/pages/sidebar.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-26.807692" vertical-offset="0" max-vertical-offset="799">
+              <caret line="41" column="14" selection-start-line="41" selection-start-column="14" selection-end-line="41" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.blade.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/root/resources/views/pages/index.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.3076923" vertical-offset="0" max-vertical-offset="170">
-              <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-              <folding />
+            <state vertical-scroll-proportion="0.8539519" vertical-offset="387" max-vertical-offset="1037">
+              <caret line="51" column="79" selection-start-line="51" selection-start-column="79" selection-end-line="51" selection-end-column="79" />
+              <folding>
+                <element signature="e#2387#2446#0#HTML" expanded="true" />
+                <element signature="e#2747#2806#0#HTML" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -95,16 +102,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-6.5384617" vertical-offset="0" max-vertical-offset="340">
               <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AuthenticatesAndRegistersUsers.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/root/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesAndRegistersUsers.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="272">
-              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -140,10 +137,17 @@
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/root/app/Http/Controllers/Auth/AuthController.php" />
         <option value="$PROJECT_DIR$/root/app/Http/Controllers/PageController.php" />
-        <option value="$PROJECT_DIR$/root/resources/views/pages/index.blade.php" />
         <option value="$PROJECT_DIR$/root/app/Http/routes.php" />
         <option value="$PROJECT_DIR$/root/resources/views/master.blade.php" />
+        <option value="$PROJECT_DIR$/root/resources/views/pages/show.blade.php" />
+        <option value="$PROJECT_DIR$/root/.env" />
+        <option value="$PROJECT_DIR$/root/resources/views/pages/navbar.blade.php" />
+        <option value="$PROJECT_DIR$/root/resources/views/pages/scrollbar.blade.php" />
+        <option value="$PROJECT_DIR$/root/resources/views/pages/footer.blade.php" />
+        <option value="$PROJECT_DIR$/root/resources/views/pages/sidebar.blade.php" />
+        <option value="$USER_HOME$/Desktop/wow slider.html" />
         <option value="$PROJECT_DIR$/root/resources/views/pages/master.blade.php" />
+        <option value="$PROJECT_DIR$/root/resources/views/pages/index.blade.php" />
       </list>
     </option>
   </component>
@@ -378,6 +382,32 @@
               <option name="myItemId" value="assets" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="school" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="school" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="root" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -540,7 +570,13 @@
       <option name="project" value="LOCAL" />
       <updated>1453853418079</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="commit">
+      <created>1453853460067</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1453853460067</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -588,7 +624,8 @@
     </option>
     <MESSAGE value="idea files" />
     <MESSAGE value="resources" />
-    <option name="LAST_COMMIT_MESSAGE" value="resources" />
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -758,14 +795,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/root/app/Http/Controllers/Auth/AuthController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.5384617" vertical-offset="51" max-vertical-offset="1275">
-          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/root/app/Http/Controllers/PageController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-6.5384617" vertical-offset="0" max-vertical-offset="340">
@@ -782,14 +811,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/root/resources/views/pages/index.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.3076923" vertical-offset="0" max-vertical-offset="170">
-          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/root/resources/assets/css/custom.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.44407895" vertical-offset="1923" max-vertical-offset="6987">
@@ -798,11 +819,119 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/root/resources/views/pages/show.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.087628864" vertical-offset="0" max-vertical-offset="582">
+          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/root/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.08388158" vertical-offset="0" max-vertical-offset="608">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/root/resources/views/pages/navbar.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7886598" vertical-offset="0" max-vertical-offset="582">
+          <caret line="27" column="6" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/root/resources/views/pages/scrollbar.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.17525773" vertical-offset="0" max-vertical-offset="582">
+          <caret line="5" column="201" selection-start-line="5" selection-start-column="201" selection-end-line="5" selection-end-column="201" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/root/resources/views/pages/footer.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.1099657" vertical-offset="0" max-vertical-offset="748">
+          <caret line="36" column="6" selection-start-line="36" selection-start-column="6" selection-end-line="36" selection-end-column="6" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#h3#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#h3#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#h3#0;n#div#2;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/iframe_wow slider.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.65384614" vertical-offset="0" max-vertical-offset="170">
+          <caret line="1" column="37" selection-start-line="1" selection-start-column="37" selection-end-line="1" selection-end-column="37" />
+          <folding>
+            <element signature="n#style#0;n#iframe#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/root/app/Http/Controllers/Auth/AuthController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.5384617" vertical-offset="51" max-vertical-offset="1275">
+          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/root/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.28865978" vertical-offset="1090" max-vertical-offset="12393">
+          <caret line="85" column="21" selection-start-line="85" selection-start-column="21" selection-end-line="85" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/engine1/jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="11339">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/root/resources/views/pages/master.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.41580757" vertical-offset="166" max-vertical-offset="799">
-          <caret line="24" column="42" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
+        <state vertical-scroll-proportion="-7.1923075" vertical-offset="0" max-vertical-offset="663">
+          <caret line="11" column="78" selection-start-line="11" selection-start-column="78" selection-end-line="11" selection-end-column="78" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/wow slider.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.269231" vertical-offset="234" max-vertical-offset="816">
+          <caret line="31" column="14" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/root/resources/views/pages/sidebar.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-26.807692" vertical-offset="0" max-vertical-offset="799">
+          <caret line="41" column="14" selection-start-line="41" selection-start-column="14" selection-end-line="41" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/root/resources/views/pages/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8539519" vertical-offset="387" max-vertical-offset="1037">
+          <caret line="51" column="79" selection-start-line="51" selection-start-column="79" selection-end-line="51" selection-end-column="79" />
+          <folding>
+            <element signature="e#2387#2446#0#HTML" expanded="true" />
+            <element signature="e#2747#2806#0#HTML" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

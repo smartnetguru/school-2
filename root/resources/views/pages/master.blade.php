@@ -5,38 +5,30 @@
     <title>{{ $title }}</title>
     <link rel="shortcut icon" href="{{ asset('root/resources/assets/images/logo/logo.png') }}"/>
     <link rel="stylesheet" href="{{ asset('root/resources/assets/css/bootstrap.min.css') }}"/>
+    <link rel="stylesheet" href="{{ asset('root/resources/assets/engine1/style.css') }}"/>
     <link rel="stylesheet" href="{{ asset('root/resources/assets/css/custom.css') }}"/>
+    <script src="{{ asset('root/resources/assets/js/jquery.min.js') }}"></script>
+    <script src="{{ asset('root/resources/assets/js/bootstrap.min.js') }}"></script>
+    <script src="{{ asset('root/resources/assets/js/respond.js') }}"></script>
 </head>
 <body>
 <div class="container">
     <header>
-        <div>
-            <img src="{{ asset('root/resources/assets/images/banner/banner.png') }}" alt="" class="img-responsive"/>
-            <div class="navbar navbar-sky">
-                <div class="navbar-header">
-                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#collapse">
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                    </button>
-                    <div class="collapse navbar-collapse" id="collapse">
-                        <ul class="nav navbar-nav">
-                            <li><a href="/">HOME</a></li>
-                            <li><a href="#">ABOUT</a></li>
-                            <li><a href="#">ACADEMIC</a></li>
-                            <li><a href="#">MANAGEMENT</a></li>
-                            <li><a href="#">ADMISSION</a></li>
-                            <li><a href="#">STUDENTS</a></li>
-                            <li><a href="#">NOTICE</a></li>
-                            <li><a href="#">RESULTS</a></li>
-                            <li><a href="#">CONTACTS</a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
+        <img src="{{ asset('root/resources/assets/images/banner/banner.png') }}" alt="" class="img-responsive"/>
+        @include('pages.navbar')
+        @include('pages.scrollbar')
     </header>
-    @yield('content')
+    <article class="col-md-12">
+        <section class="col-md-3 navbar aside">
+            @include('pages.sidebar')
+        </section>
+        <section class="col-md-9">
+            @yield('content')
+        </section>
+    </article>
+    <footer class="col-md-12">
+        @include('pages.footer')
+    </footer>
 </div>
 </body>
 </html>
