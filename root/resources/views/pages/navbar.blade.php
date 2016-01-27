@@ -7,7 +7,7 @@
         </button>
         <div class="collapse navbar-collapse" id="collapse">
             <ul class="nav navbar-nav">
-                <li class="{{ Request::path() == '/' ? 'active' : '' }}"><a href="/">HOME</a></li>
+                <li class="{{ Request::path() == '/' ? 'active' : '' }}"><a href="{{ action('PageController@index') }}">HOME</a></li>
                 <li>
                     <a href="#">ABOUT</a>
                     <ul class="sub-menu">

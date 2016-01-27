@@ -27,5 +27,15 @@
 */
 
 Route::group(['middleware' => ['web']], function () {
+    Route::auth();
     Route::get('/','PageController@index');
+    Route::get('admin','AdminController@index');
 });
+
+Route::get('profile',['middleware' => 'auth'], function(){
+    Route::get('admin','AdminController@index');
+});
+
+//Route::group(['middleware' => 'web'], function () {
+//    Route::get('/home', 'HomeController@index');
+//});
