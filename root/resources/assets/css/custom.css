@@ -1,0 +1,406 @@
+body{
+	/*background-color: #CCC;*/
+	background: url(../images/white_wall_hash.png) repeat fixed 0% 0% transparent;
+}
+
+@font-face{
+	font-family: "Nikosh";
+	src: url(../fonts/Nikosh.ttf);
+}
+
+.logo{
+	width: 100px;
+	height: auto;
+}
+
+.banner{
+	max-height: 300px;
+	overflow: hidden;
+}
+
+.container{
+    width: 80%;
+	background-color: #FFF;
+	box-shadow: 1px 2px 2px 2px #000;
+	padding: 0;
+}
+
+.img-responsive{
+	width: 100%;
+}
+
+.home{
+	border: 0 1px solid #c3c3c3;
+}
+.home h2{
+	text-align: center;
+	color: #04A5C8;
+	font-weight: bold;
+}
+.welcome{
+	padding: 10px;
+}
+
+.news,
+.notice{
+	border: 1px solid #DCDCDC;
+	margin-bottom: 10px !important;
+}
+.news p,
+.notice p{
+	color: #007201;
+	font-weight: bold;
+	margin: 0 !important;
+}
+
+.heading{
+    /*background-image: url(../images/n_bar.png);*/
+    background-color: #EDEDED;
+    /*background-repeat: repeat-x;*/
+    /*color:#007201;*/
+	border-bottom: 1px solid #DCDCDC;
+}
+
+footer{
+	background-image: url(../images/geometric.jpg);
+	/*background-color: #3399FF;*/
+	color: #FFF;
+}
+.copyright li{
+	list-style-type: none;
+	text-align: left;
+}
+.copyright a{
+	text-decoration: none;
+	color: #FFF;
+}
+.copyright a:hover{
+	font-weight: bold;
+}
+footer hr{
+    border-top: 1px solid #000;
+}
+.footer ul li{
+    list-style-type: none;
+}
+.footer a{
+    text-decoration: none;
+    color: #FFF;
+    line-height: 2em;
+    font-size: 1.1em;
+}
+.footer a:hover{
+    text-decoration: underline;
+    font-weight: bold;
+}
+.footer address{
+    font-size: 1.1em;
+    line-height: 2em;
+}
+
+/*=======================================*\
+|			MESSAGE STARTS 				  |
+\*=======================================*/
+.msg_err{
+	color: #ff5064;
+	font-weight: bold;
+	line-height: 2em;
+}
+.msg_notice{
+	color: #64a4ff;
+	line-height: 2em;
+	font-weight: bold;
+}
+.msg_success{
+	color: #33dc0c;
+	line-height: 2em;
+	font-weight: bold;
+}
+/*=======================================*\
+|			MESSAGE ENDS				  |
+\*=======================================*/
+
+/*==========================================
+				Navbar Starts
+  ==========================================*/
+.navbar-sky{
+    background-color: #222;
+    margin: 10px 0;
+	/*background: url(../images/nav_bar.png);*/
+}
+.navbar-sky > ul > li{
+    border-right: 1px solid #000;
+}
+.navbar-sky a{
+	color: #FFF;
+	/*font-weight: bold;*/
+}
+.navbar-sky .active{
+	background-color: #517901;
+	color: #FFF;
+}
+.navbar-sky .active a {
+	color: #FFF;
+}
+.navbar-sky ul li:hover{
+    -webkit-transition: background-color 0.2s ease-out 0s;
+    -moz-transition: background-color 0.2s ease-out 0s;
+    -ms-transition: background-color 0.2s ease-out 0s;
+    -o-transition: background-color 0.2s ease-out 0s;
+    transition: background-color 0.2s ease-out 0s;
+    background-color: #517901 !important;
+}
+.navbar-sky a:hover{
+	color: #FFF;
+}
+
+.sub-menu{
+	top: 29;
+	width: 200px;
+	padding: 10px;
+	position: absolute;
+	visibility: hidden;
+	background-color: #333;
+	border: 2px solid #000;
+	border-bottom-right-radius: 5px;
+	border-bottom-left-radius: 5px;
+	z-index: 99;
+}
+.sub-menu a{
+	display: block;
+	width: auto;
+	text-decoration: none;
+	color: #FFF;
+}
+
+.navbar li:hover .sub-menu{
+	visibility: visible;
+	list-style-type: none;
+}
+.sub-menu li{
+    background-color: #000000;
+    display: block;
+    margin: 5px 0;
+    padding: 5px;
+}
+
+.sub-menu a:hover{
+	color: #FFF;
+}
+
+.navbar:hover .sub-menu{
+	display: block;
+}
+
+.nav-tabs .dropdown-menu,
+.nav-pills .dropdown-menu,
+.navbar .sub-menu{
+	margin-top: 0;
+}
+
+/*==========================================
+				Navbar Ends
+  ==========================================*/
+
+/*==========================================
+			Aside Starts
+============================================*/
+
+.aside{
+	padding: 0;
+	margin: 0;
+}
+.aside ul{
+	margin-bottom: 10px;
+}
+.aside .navbar-sky{
+    background-color: #EDEDED;
+	/*background: url(../images/nav_bar_aside.png) !important;*/
+    color: #333;
+    border: 1px solid #DCDCDC;
+    box-shadow: 0 1px 0 0 #FFF inset;
+	border-radius: 5px;
+	padding: 1px;
+	margin: 1px 0;
+}
+.aside ul li a{
+    color: #517901;
+    font-weight: bold;
+    padding: 2px !important;
+}
+
+.aside a:hover{
+    color: #00ba01;
+}
+
+/*==========================================
+			Aside Ends
+============================================*/
+
+article{
+	padding: 0 10px !important;
+}
+.page{
+	font-family: "Nikosh";
+}
+
+/*==========================================
+			News/Notice Starts
+============================================*/
+.news-container {
+		width: 100%;
+		height: 200px;
+		margin: 0;
+		padding: 0 2px;
+		background-color: transparent;
+		overflow: hidden;
+	}
+
+	.element {
+		width: 100%;
+		height: auto;
+		padding: 5px 0;
+		position: relative;
+		top: 200px;
+		left: 0;
+	}
+
+	.element {
+		animation-name: zigzag;
+		animation-duration: 20s;
+		animation-iteration-count: infinite;
+		animation-timing-function: linear;
+	}
+
+	.news-container:hover .element{
+		animation-play-state: paused;
+	}
+
+	.element {
+		animation-delay: 0s;
+	}
+
+	@keyframes zigzag {
+		from {
+			top: 100px;
+			animation-timing-function: ease-out;
+		}
+		15% {
+			top: 50px;
+			animation-timing-function: ease-out;
+		}
+		30% {
+			top: 0;
+			animation-timing-function: ease-out;
+		}
+		45% {
+			top: -50px;
+			animation-timing-function: ease-out;
+		}
+		60% {
+			top: -100px;
+			animation-timing-function: ease-out;
+		}
+		75% {
+			top: -150px;
+			animation-timing-function: ease-out;
+		}
+		100% {
+			top: -200px;
+			animation-timing-function: ease-out;
+		}
+	}
+/*======================================
+			News/Notice Ends
+========================================*/
+
+/*======================================
+			Student Table Starts
+========================================*/
+.table-student th{
+	background: transparent -moz-linear-gradient(center top, #FFF, #CCC) repeat scroll 0% 0%;
+}
+.table-student tr:nth-child(odd){
+	background-color: #ced6df;
+}
+.table-student tr:hover{
+	background-color: #E3D9FA;
+}
+.table-student td,
+.table-student th{
+	text-align: center;
+	font-weight: bold;
+}
+/*=======================================
+			Student Table Ends
+=========================================*/
+
+/*======================================
+			Pagination Starts
+========================================*/
+.pagination-inactive{
+    display: inline-block;
+    background-color: rgba(136, 136, 136, 0.10);
+    color: #515151;
+    padding: 8px;
+}
+.pagination-inactive:hover{
+    background-color: #515151;
+    color: #fff;
+    text-decoration: none;
+}
+.pagination-active{
+    display: inline-block;
+    background-color: #64a4ff;
+    color: #fff;
+    padding: 8px;
+    margin-bottom: 1em;
+}
+.pagination-active:hover{
+    color: #fff;
+    text-decoration: none;
+}
+/*=======================================
+			Pagination Ends
+=========================================*/
+
+/*=======================================
+            Scroll Bar Starts
+=========================================*/
+.scrollbar{
+    border: 1px solid #007201;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+.scrollbar .col-md-1{
+    background-color: #00ba01;
+    color: #f2f2f2;
+    padding: 5px;
+    margin: -5px;
+}
+.scrollbar a{
+    color: #393872;
+    text-decoration: none;
+}
+.scrollbar a:hover{
+    color: #000000;
+}
+/*=======================================
+            Scroll Bar Starts
+=========================================*/
+
+.teacher th{
+    background-color: #333;
+    color: #f2f2f2;
+    text-align: center;
+}
+.teacher tr:nth-child(odd){
+    background-color: #e3ffdc;
+}
+.teacher a{
+    text-decoration: none;
+    color: #333;
+}
+.teacher tr:hover{
+    background-color: #7f7e9a;
+}
