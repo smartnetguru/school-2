@@ -2,74 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e14b9a18-f5f4-4c0c-836e-3ee99558fbfb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/images/103.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/images/album/178192139_gallery_304016113_gallery_DSC_0452.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/images/banner/218933106_banner_782989502_banner_ban.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/images/ssc/284728_add_student.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/images/album/337341309_gallery_457122803_gallery_DSC_0417.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/images/album/382446289_gallery_logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/images/hsc/564848_add_student.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/images/banner/574493408_banner_banner.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/images/hsc/574857_add_student.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/images/album/612457275_gallery_677459717_gallery_1000.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/images/album/646331787_gallery_700866699_gallery_DSC_0463.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/images/ssc/673058_add_student.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/images/banner/782989502_banner_ban.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/images/banner/791046142_banner_782989502_banner_ban.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/images/album/831756591_gallery_DSC_0488.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/images/album/896697998_gallery_631011963_gallery_DSC_0423.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/images/album/946777343_gallery_31250000_gallery_DSC_0533.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/images/background.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/images/ban.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/images/banner.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/images/banner/banner.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/images/bulletin.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/images/close.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/images/construction.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/images/d_logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/images/download.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/images/feedback.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/images/founder.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/images/gallery.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/images/geometric.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/images/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/images/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/images/logo/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/images/manage.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/images/name_bangla.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/images/newspaper.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/images/next.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/images/prev.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/images/projector.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/images/results_icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/images/students-list.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/images/white_wall_hash.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/app/Http/Controllers/PageController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/css/admin.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/css/bootstrap-theme.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/css/bootstrap-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/css/bootstrap-theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/css/bootstrap.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/css/custom.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/views/pages/index.blade.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/js/jquery-1.11.0.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/js/jquery-2.1.4.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/css/jquery.datetimepicker.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/js/jquery.datetimepicker.full.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/js/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/css/lightbox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/js/lightbox.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/views/pages/master.blade.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/js/npm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/php.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/js/respond.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/app/Http/Controllers/Auth/AuthController.php" afterPath="$PROJECT_DIR$/root/app/Http/Controllers/Auth/AuthController.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/app/Http/routes.php" afterPath="$PROJECT_DIR$/root/app/Http/routes.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/school.iml" afterPath="$PROJECT_DIR$/.idea/school.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="srijon.iws" />
@@ -188,6 +123,11 @@
     </leaf>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="smartrahat" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -588,6 +528,19 @@
       <option name="number" value="Default" />
       <updated>1451562817424</updated>
     </task>
+    <task id="LOCAL-00001" summary="idea files">
+      <created>1453853296942</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1453853296942</updated>
+    </task>
+    <task id="LOCAL-00002" summary="resources">
+      <created>1453853418079</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1453853418079</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -633,7 +586,9 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="idea files" />
+    <MESSAGE value="resources" />
+    <option name="LAST_COMMIT_MESSAGE" value="resources" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
