@@ -2,23 +2,66 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e14b9a18-f5f4-4c0c-836e-3ee99558fbfb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/vendor/font-awesome/fonts/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/vendor/font-awesome/fonts/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/vendor/font-awesome/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/vendor/font-awesome/fonts/fontawesome-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/vendor/font-awesome/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/views/layouts/app.blade.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/css/skins/default.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/css/skins/extension.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/vendor/font-awesome/css/font-awesome.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/vendor/font-awesome/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/vendor/font-awesome/fonts/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/vendor/magnific-popup/magnific-popup.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/vendor/magnific-popup/magnific-popup.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/css/theme.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/resources/views/auth/passwords/email.blade.php" afterPath="$PROJECT_DIR$/root/resources/views/auth/passwords/email.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/resources/views/auth/login.blade.php" afterPath="$PROJECT_DIR$/root/resources/views/auth/login.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/resources/views/auth/passwords/reset.blade.php" afterPath="$PROJECT_DIR$/root/resources/views/auth/passwords/reset.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.ar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.az.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.bg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.cs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.cy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.da.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.el.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.et.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.fa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.fi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.gl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.he.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.hr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.hu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.id.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.is.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.ja.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/vendor/bootstrap-datepicker/js/bootstrap-datepicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.ka.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.kk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.kr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.lt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.lv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.mk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.ms.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.nb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.nl-BE.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.no.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.pl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.pt-BR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.pt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.ro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.rs-latin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.rs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.sk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.sl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.sq.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.sv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.sw.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.th.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.tr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.ua.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.vi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.zh-CN.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.zh-TW.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/vendor/bootstrap-datepicker/css/datepicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/assets/vendor/bootstrap-datepicker/css/datepicker3.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/resources/views/admin/header.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/database/migrations/2014_10_12_000000_create_users_table.php" afterPath="$PROJECT_DIR$/root/database/migrations/2014_10_12_000000_create_users_table.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/app/Http/Controllers/AdminController.php" afterPath="$PROJECT_DIR$/root/app/Http/Controllers/AdminController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/resources/views/admin/index.blade.php" afterPath="$PROJECT_DIR$/root/resources/views/admin/index.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/resources/views/admin/master.blade.php" afterPath="$PROJECT_DIR$/root/resources/views/admin/master.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/app/Http/routes.php" afterPath="$PROJECT_DIR$/root/app/Http/routes.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="srijon.iws" />
@@ -47,18 +90,8 @@
       <file leaf-file-name="routes.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/root/app/Http/routes.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.576923" vertical-offset="64" max-vertical-offset="646">
-              <caret line="32" column="3" selection-start-line="32" selection-start-column="3" selection-end-line="32" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pages-signin.html" pinned="false" current-in-tab="false">
-        <entry file="file://D:/Client/wunoz/themeforest-8539472-porto-admin-responsive-html5-template/HTML/pages-signin.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.423077" vertical-offset="1200" max-vertical-offset="2295">
-              <caret line="85" column="62" selection-start-line="85" selection-start-column="62" selection-end-line="85" selection-end-column="62" />
+            <state vertical-scroll-proportion="-15.192307" vertical-offset="13" max-vertical-offset="595">
+              <caret line="33" column="3" selection-start-line="33" selection-start-column="3" selection-end-line="33" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -74,11 +107,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="login.blade.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="login.blade.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/root/resources/views/auth/login.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.20446736" vertical-offset="0" max-vertical-offset="1394">
-              <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+            <state vertical-scroll-proportion="-15.846154" vertical-offset="812" max-vertical-offset="1394">
+              <caret line="72" column="0" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -97,18 +130,38 @@
       <file leaf-file-name="AdminController.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/root/app/Http/Controllers/AdminController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.8461537" vertical-offset="0" max-vertical-offset="340">
-              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+            <state vertical-scroll-proportion="-11.769231" vertical-offset="0" max-vertical-offset="408">
+              <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HomeController.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/root/app/Http/Controllers/HomeController.php">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://D:/Client/wunoz/themeforest-8539472-porto-admin-responsive-html5-template/HTML/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="578">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="-28.115385" vertical-offset="0" max-vertical-offset="29665">
+              <caret line="43" column="8" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/root/resources/views/admin/index.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-2.6153846" vertical-offset="0" max-vertical-offset="204">
+              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="master.blade.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/root/resources/views/admin/master.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.82474226" vertical-offset="183" max-vertical-offset="816">
+              <caret line="39" column="21" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -142,16 +195,18 @@
         <option value="$PROJECT_DIR$/root/resources/views/pages/master.blade.php" />
         <option value="$PROJECT_DIR$/root/resources/views/pages/index.blade.php" />
         <option value="$PROJECT_DIR$/root/resources/views/pages/navbar.blade.php" />
-        <option value="$PROJECT_DIR$/root/app/Http/Controllers/AdminController.php" />
-        <option value="$PROJECT_DIR$/root/resources/views/admin/master.blade.php" />
-        <option value="$PROJECT_DIR$/root/resources/views/admin/index.blade.php" />
         <option value="$PROJECT_DIR$/root/app/Http/Controllers/Auth/AuthController.php" />
-        <option value="$PROJECT_DIR$/root/app/Http/routes.php" />
         <option value="$PROJECT_DIR$/root/.env" />
         <option value="$PROJECT_DIR$/root/resources/views/auth/passwords/email.blade.php" />
         <option value="$PROJECT_DIR$/root/resources/views/auth/passwords/reset.blade.php" />
         <option value="$PROJECT_DIR$/root/resources/views/layouts/app.blade.php" />
         <option value="$PROJECT_DIR$/root/resources/views/auth/login.blade.php" />
+        <option value="$PROJECT_DIR$/root/app/Http/routes.php" />
+        <option value="$PROJECT_DIR$/root/app/Http/Controllers/AdminController.php" />
+        <option value="$PROJECT_DIR$/root/database/migrations/2014_10_12_000000_create_users_table.php" />
+        <option value="$PROJECT_DIR$/root/resources/views/admin/header.blade.php" />
+        <option value="$PROJECT_DIR$/root/resources/views/admin/index.blade.php" />
+        <option value="$PROJECT_DIR$/root/resources/views/admin/master.blade.php" />
       </list>
     </option>
   </component>
@@ -502,6 +557,100 @@
               <option name="myItemId" value="vendor" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magnific-popup" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="school" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="school" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="root" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="school" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="school" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="root" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bootstrap-datepicker" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="school" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="school" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="root" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bootstrap-datepicker" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -548,6 +697,46 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="school" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="school" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="root" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="database" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="school" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="school" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="root" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="database" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="migrations" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -679,10 +868,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../srijonee" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../wunoz-admin" />
     <property name="options.lastSelected" value="vcs.Git" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="SearchEverywhereHistoryKey" value="helper&#9;FILE&#9;file://D:/xampp/htdocs/school/root/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php&#10;route&#9;null&#9;null" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -719,6 +909,9 @@
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="e14b9a18-f5f4-4c0c-836e-3ee99558fbfb" name="Default" comment="" />
@@ -756,7 +949,13 @@
       <option name="project" value="LOCAL" />
       <updated>1453933108860</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="theme">
+      <created>1453993448712</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1453993448712</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -807,65 +1006,14 @@
     <MESSAGE value="commit" />
     <MESSAGE value="Pages" />
     <MESSAGE value="authentication" />
-    <option name="LAST_COMMIT_MESSAGE" value="authentication" />
+    <MESSAGE value="theme" />
+    <option name="LAST_COMMIT_MESSAGE" value="theme" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.htaccess">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="374">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding>
-            <marker date="1451561260840" expanded="true" signature="0:411" placeholder="&lt;IfModule mod_rewrite.c&gt;" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/root/bootstrap/app.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="884">
-          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1003">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/root/bootstrap/autoload.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="680">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.htaccess">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="374">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding>
-            <marker date="1451561260840" expanded="true" signature="0:411" placeholder="&lt;IfModule mod_rewrite.c&gt;" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/root/bootstrap/app.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="884">
-          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1003">
@@ -990,14 +1138,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/root/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.28865978" vertical-offset="1090" max-vertical-offset="12393">
-          <caret line="85" column="21" selection-start-line="85" selection-start-column="21" selection-end-line="85" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/root/resources/views/pages/master.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-7.1923075" vertical-offset="0" max-vertical-offset="663">
@@ -1022,14 +1162,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/root/resources/views/admin/master.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="255">
-          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/root/resources/views/pages/index.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.90549827" vertical-offset="0" max-vertical-offset="1037">
@@ -1045,14 +1177,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-26.807692" vertical-offset="0" max-vertical-offset="799">
           <caret line="41" column="14" selection-start-line="41" selection-start-column="14" selection-end-line="41" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/root/resources/views/admin/index.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="582">
-          <caret line="0" column="16" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
           <folding />
         </state>
       </provider>
@@ -1081,14 +1205,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/root/app/Http/Controllers/AdminController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.8461537" vertical-offset="0" max-vertical-offset="340">
-          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/root/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesAndRegistersUsers.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="272">
@@ -1108,14 +1224,6 @@
     <entry file="file://$PROJECT_DIR$/root/app/Http/Middleware/Authenticate.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="608">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Client/wunoz/themeforest-8539472-porto-admin-responsive-html5-template/HTML/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="29665">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -1193,14 +1301,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/root/app/Http/routes.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.576923" vertical-offset="64" max-vertical-offset="646">
-          <caret line="32" column="3" selection-start-line="32" selection-start-column="3" selection-end-line="32" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/root/.env">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.55921054" vertical-offset="0" max-vertical-offset="608">
@@ -1227,8 +1327,112 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/root/resources/views/auth/login.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.20446736" vertical-offset="0" max-vertical-offset="1394">
-          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        <state vertical-scroll-proportion="-15.846154" vertical-offset="812" max-vertical-offset="1394">
+          <caret line="72" column="0" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/root/vendor/laravel/framework/src/Illuminate/Support/Facades/Route.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.058419243" vertical-offset="0" max-vertical-offset="582">
+          <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/root/vendor/symfony/routing/Route.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.008591" vertical-offset="7193" max-vertical-offset="9996">
+          <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/root/vendor/laravel/framework/src/Illuminate/Routing/Router.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.18900344" vertical-offset="5193" max-vertical-offset="20723">
+          <caret line="313" column="7" selection-start-line="313" selection-start-column="7" selection-end-line="313" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/root/vendor/laravel/framework/src/Illuminate/Routing/Route.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23367697" vertical-offset="0" max-vertical-offset="14637">
+          <caret line="22" column="16" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/root/vendor/laravel/framework/src/Illuminate/Routing/RouteCollection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.7010309" vertical-offset="510" max-vertical-offset="5321">
+          <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/root/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-18.132303" vertical-offset="11811" max-vertical-offset="12393">
+          <caret line="85" column="21" selection-start-line="85" selection-start-column="21" selection-end-line="85" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/root/app/Http/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.192307" vertical-offset="13" max-vertical-offset="595">
+          <caret line="33" column="3" selection-start-line="33" selection-start-column="3" selection-end-line="33" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/root/app/Http/Controllers/AdminController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.769231" vertical-offset="0" max-vertical-offset="408">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/root/database/migrations/2014_10_12_000000_create_users_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.58419245" vertical-offset="51" max-vertical-offset="680">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Client/wunoz/themeforest-8539472-porto-admin-responsive-html5-template/HTML/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-28.115385" vertical-offset="0" max-vertical-offset="29665">
+          <caret line="43" column="8" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/root/resources/views/admin/header.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.5773196" vertical-offset="0" max-vertical-offset="1309">
+          <caret line="52" column="0" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/root/resources/views/admin/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.6153846" vertical-offset="0" max-vertical-offset="204">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/root/resources/views/admin/master.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.82474226" vertical-offset="183" max-vertical-offset="816">
+          <caret line="39" column="21" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
           <folding />
         </state>
       </provider>

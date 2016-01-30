@@ -1,5 +1,7 @@
 @extends('admin.master')
 
 @section('content')
-    <p>this is dashboard</p>
+    <section class="body">
+        <p>this is dashboard</p>
+    </section>
 @stop
