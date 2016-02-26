@@ -45,7 +45,7 @@
                 </figure>
                 <div class="profile-info" data-lock-name="John Doe" data-lock-email="johndoe@okler.com">
                     <span class="name">{{ Auth::user()->name }}</span>
-                    <span class="role">{{ Auth::user() ->role}}</span>
+                    <span class="role">{{ Auth::user()->role}}</span>
                 </div>
 
                 <i class="fa custom-caret"></i>
@@ -61,7 +61,7 @@
                         <a role="menuitem" tabindex="-1" href="#" data-lock-screen="true"><i class="fa fa-lock"></i> Lock Screen</a>
                     </li>
                     <li>
-                        <a role="menuitem" tabindex="-1" href="pages-signin.html"><i class="fa fa-power-off"></i> Logout</a>
+                        <a role="menuitem" tabindex="-1" href="{{ URL('/logout') }}"><i class="fa fa-power-off"></i> Logout</a>
                     </li>
                 </ul>
             </div>
